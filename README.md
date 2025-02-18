@@ -1,5 +1,5 @@
 # ALife
 Artificial Life simulations
-![Uploading PLenia_creatures.png…]()
+<img src="/PLenia_creatures_example.jpeg" width="500"/>
 
 
